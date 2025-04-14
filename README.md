@@ -1,2 +1,0 @@
-# Detonating-Vault
-Detonating Vault
